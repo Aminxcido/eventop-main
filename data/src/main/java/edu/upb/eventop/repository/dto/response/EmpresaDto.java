@@ -12,6 +12,9 @@ public class EmpresaDto {
     private String nombre;
     private String descripcion;
 
+    public EmpresaDto() {
+    }
+
     public EmpresaDto(Empresa empresa) {
         this.id = empresa.getId();
         this.nombre = empresa.getNombre();
