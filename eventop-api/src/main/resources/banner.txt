@@ -1,0 +1,3 @@
+
+${application.title} ${application.version}
+Powered by Aminxcidos SRL ${spring-boot.version}
